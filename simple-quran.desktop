@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=simple-quran
+Exec=/usr/bin/qmlscene $@ /usr/share/simple-quran/simple-quran.qml
+Icon=qmlscene
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
